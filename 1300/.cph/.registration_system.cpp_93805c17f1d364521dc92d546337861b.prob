@@ -1,0 +1,1 @@
+{"name":"Local: registration_system","url":"c:\\Users\\yash\\OneDrive\\Desktop\\CP\\1300\\registration_system.cpp","tests":[{"id":1659969406615,"input":"4\nabacaba\nacaba\nabacaba\nacab\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yash\\OneDrive\\Desktop\\CP\\1300\\registration_system.cpp","group":"local","local":true}

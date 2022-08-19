@@ -1,0 +1,1 @@
+{"name":"Local: odd_selection","url":"c:\\Users\\yash\\OneDrive\\Desktop\\CP\\1200\\odd_selection.cpp","tests":[{"id":1660065456856,"input":"5\n1 1\n999\n1 1\n1000\n2 1\n51 50\n2 2\n51 50\n3 3\n101 102 103","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yash\\OneDrive\\Desktop\\CP\\1200\\odd_selection.cpp","group":"local","local":true}
